@@ -1,16 +1,13 @@
-## Hi there 👋
+### [ my marketing tagline ] 
 
-<!--
-**kyla-reese/kyla-reese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+    |\__/,|   (`\
+  _.|o o  |_   ) )
+-(((---(((--------
+</pre>
 
-Here are some ideas to get you started:
+Hi! I'm Kyla Reese Dela Cruz. I'm a graduate of De La Salle University, Manila with a degree in BS Computer Science, Major in Software Technology. [who else am i]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- consider maybe making this look like a DND charcter sheet?
+--> 
