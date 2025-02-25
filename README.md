@@ -1,27 +1,37 @@
 <!-- --------------------------------------------------------------------------------- --> 
 
-### [ my marketing tagline ] 
+# The creative with a computer 🫶
 
-Hi! I'm Kyla Reese Dela Cruz. I'm a graduate of De La Salle University, Manila with a degree in BS Computer Science, Major in Software Technology. Below I've put a little something to help you get to know me. 
 
+Hi! I'm Kyla Reese Dela Cruz. I'm a graduate of De La Salle University, Manila with a degree in BS Computer Science, Major in Software Technology. 
+
+I'm a motivated and diligent computer scientist in the making. A consistent dean's lister with experience in Web, App, and Java development as well as E2E and automation testing, complemented with organization, communication, and interpersonal skills to present code analysis and documentations with ease!
+
+**Connect with me!**
+<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyla-reese-jhulan-dela-cruz-707ab7223/) 
+
+<!--
+Below I've put a little something to help you get to know me. 
 <pre>  
                 |\__/,|   (`\
               _.|o o  |_   ) )  
             ┌──(((──(((─────┐ ┌───────────────┐ ┌───────────────┐ ┌───────────────┐ ┌───────────────┐ ┌───────────────┐
             │               │ │               │ │               │ │               │ │               │ │               │
-            │  Creativity   │ │               │ │               │ │               │ │               │ │               │
+            │               │ │               │ │               │ │               │ │               │ │               │
             │               │ │               │ │               │ │               │ │               │ │               │
             │               │ │               │ │               │ │               │ │               │ │               │ 
-            │               │ │               │ │               │ │               │ │               │ │               │
+            │ Creativity    │ │ Adaptability  │ │ Diligence     │ │               │ │               │ │               │
             └───────────────┘ └───────────────┘ └───────────────┘ └───────────────┘ └───────────────┘ └───────────────┘    
 </pre>
+--> 
 
 <br>
 
 ## Specialization
 I mostly specialize in **💻 Java and Web Development**. 
-<br> But I also have experience in **👾 UI and Game Design**
-<br> And I've done **📋 Quality Assurance** work too! 
+<br> But I also have experience in **👾 UI and Game Design** and I've done **📋 Quality Assurance** work too! 
+
+*Throug out my four year stay in college, we learned moreso "how to learn" rather than focusing on one specific aspect to master. Because of this I've gained experience in many differnt this. I've done mobile development, machine learning, game development, and I've also become able to learn new langauges rather quickly. Despite this, however, I've really found myself attracted to Java and Web Dev in particular. As such, that's where I've decided to hone my skills.*
 
 <br>
 
@@ -53,11 +63,12 @@ I mostly specialize in **💻 Java and Web Development**.
 <br>
 
 ## Hobbies
-- I bake 
-- I crochet
-- I'm well read
-- I like cozy games
-You'll find that these hobbies more often than not bleed into my work! This, I think, is where a lot of my creativty comes from. 
+*Aside from coding and design, I also have a plethora of other hobbies that I like to spend my time on. Most of my ideas, in terms of design, color schemes, coding project concepts, etc. tend to stem from my want to solve a problem or fill a need that I've found while dabbling in these past times.* 
+
+- I like to bake. 🍪
+- I crochet things for myself and friends. 🧶
+- I'm well read. 📖 
+- And I like cozy games! 🎮
 
 
 
