@@ -61,12 +61,12 @@ I mostly specialize in **💻 Java and Web Development**.
 
 ## Realted and Other Skills 
 
-| Skill   | What I Can Do                                                                                                                                                    |
-|:--------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Drawing | can make small assets, intricate designs, or cute/simple renderings of characters <br> > also has some skill in basic character design                             |
-| Design  | can and has made designs/layouts for websites, programs, and cards in a card game <br> > has also designed a brand mascot and logo (for academic and personal use) | 
-| Writing | has experiece writing fiction-based stories, wrote almost every level for a visual novel (thesis)                                                                  |
-| Music   | plays guitar and ukulele, sings; has experience writing song lyrics                                                                                              | 
+| Skill   | What I Can Do                                                                                                                                                                          |
+|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Drawing | can make small assets, intricate designs, or cute/simple renderings of characters <br> > also has some skill in basic character design                                                 |
+| Design  | can and has made designs/layouts for websites, java and mobile applications, and cards in a card game <br> > has also designed a brand mascot and logo (for academic and personal use) | 
+| Writing | has experiece writing fiction-based stories, wrote almost every level for a visual novel (thesis)                                                                                      |
+| Music   | plays guitar and ukulele, sings; has experience writing song lyrics                                                                                                                    | 
 
 <br>
 
