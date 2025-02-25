@@ -3,9 +3,10 @@
 # The creative with a computer 🫶
 
 
-Hi! I'm Kyla Reese Dela Cruz. I'm a graduate of De La Salle University, Manila with a degree in BS Computer Science, Major in Software Technology. 
+Hi there! 👋  
+I'm Kyla Reese Dela Cruz. I'm a graduate of De La Salle University, Manila with a degree in BS Computer Science, Major in Software Technology. At the end of my stay, I was able to get a 3.3 CGPA, granting me the "Honorable Mention" status. 
 
-I'm a motivated and diligent computer scientist in the making. A consistent dean's lister with experience in Web, App, and Java development as well as E2E and automation testing, complemented with organization, communication, and interpersonal skills to present code analysis and documentations with ease!
+Overall, I'd describe myself as a motivated and diligent computer scientist in the making. I've consistently been on the dean's list for most of my college career and I'm knowledgeable in Web, App, and Java development. I've also had experience with E2E and automation testing. Aside from these coding capabilities, I also have organization, communication, and interpersonal skills that help me present code analysis and create documentation with ease!
 
 **Connect with me!**
 <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyla-reese-jhulan-dela-cruz-707ab7223/) 
