@@ -33,7 +33,7 @@ Below I've put a little something to help you get to know me.
 I mostly specialize in **💻 Java and Web Development**. 
 <br> But I also have experience in **👾 UI and Game Design** and I've done **📋 Quality Assurance** work too! 
 
-*Throughout my four year stay in college, we learned moreso "how to learn" rather than focusing on one specific aspect to master. Because of this I've gained experience in many differnt this. I've done mobile development, machine learning, game development, and I've also become able to learn new langauges rather quickly. Despite this, however, I've really found myself attracted to Java and Web Dev in particular. As such, that's where I've decided to hone my skills.*
+*Throughout my four year stay in college, we learned moreso "how to learn" rather than focusing on one specific aspect to master. Because of this I've gained experience in many differnt things. I've done mobile development, machine learning, game development, and I've also become able to learn new langauges rather quickly. Despite this, however, I've really found myself attracted to Java and Web Dev in particular. As such, that's where I've decided to hone my skills.*
 
 <br>
 
