@@ -1,6 +1,6 @@
 <!-- --------------------------------------------------------------------------------- --> 
 
-# The creative with a computer 🫶
+# The creative with a computer 
 
 
 Hi there! 👋  
