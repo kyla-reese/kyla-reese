@@ -71,7 +71,7 @@ I mostly specialize in **💻 Java and Web Development**.
 <br>
 
 ## Hobbies
-*Aside from coding and design, I also have a plethora of other hobbies that I like to spend my time on. Most of my ideas, in terms of design, color schemes, coding project concepts, etc. tend to stem from my want to solve a problem or fill a need that I've found while dabbling in these past times.* 
+*Aside from coding and design, I also have a plethora of other hobbies that I like to spend my time on. Most of my ideas, in terms of design, color schemes, coding project concepts, etc. tend to stem from my want to solve a problem or fill a need that I've found while dabbling in these pastime.* 
 
 - I like to bake. 🍪
 - I crochet things for myself and friends. 🧶
